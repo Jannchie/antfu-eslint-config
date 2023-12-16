@@ -1,7 +1,7 @@
 # @jannchie/eslint-config
 
 > [!WARNING]
-> This repository is forked from @jannchie/eslint-config. It is essentially the same as the original repository but includes some configurations that are better suited to my needs.
+> This repository is forked from @antfu/eslint-config. It is essentially the same as the original repository but includes some configurations that are better suited to my needs.
 
 Main Difference from the original repository:
 
